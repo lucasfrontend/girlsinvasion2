@@ -1,8 +1,8 @@
  /*
-     	Indus by TEMPLATE STOCK
-     	templatestock.co @templatestock
-     	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
-     */
+      	Indus by TEMPLATE STOCK
+      	templatestock.co @templatestock
+      	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+      */
 
  /* ------------------------------------------------------------------------------
   This is jquery module for main page
@@ -87,5 +87,5 @@
 
      //Initializing the app
      //passing the countdown date
-     App.init({ day: 8, month: 10, year: 2021, hour: 10, min: 30, sec: 59 });
+     App.init({ day: 8, month: 10, year: 2021, hour: 9, min: 01, sec: 59 });
  });
