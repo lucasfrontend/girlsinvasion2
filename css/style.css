@@ -606,7 +606,7 @@
  /* cursor */
  
  .cursor {
-     top: -100%;
+     top: -150%;
      left: -100%;
      position: absolute;
      z-index: 1;
@@ -637,6 +637,11 @@
      animation: cursorAnimationExpand 0.5s forwards;
      border: 1px solid var(--brand-color);
      box-shadow: 0 0 10px var(--brand-color);
+ }
+ 
+ .heli {
+     max-width: 40px;
+     max-height: 30px;
  }
  
  @-webkit-keyframes cursorAnimation {
